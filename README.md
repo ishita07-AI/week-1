@@ -1,4 +1,4 @@
-Exhaustive Analysis of Indian Agriculture using Power BI
+EXHAUSTIVE ANALYSIS OF INDIAN AGRICULTURE USING POWER BI
 
 This repository presents an in-depth analysis of Indian agriculture, utilizing Power BI to explore key datasets and uncover actionable insights. It demonstrates the application of ET(Extract, Transform) processes and advanced data visualization techniques to address critical aspects of the agricultural sector.
 
