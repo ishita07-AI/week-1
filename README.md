@@ -1,14 +1,12 @@
-# week-1
-This repository demonstrates the end-to-end process of performing ET (Extract, Transform) operations and data analysis using Power BI. The project focuses on leveraging Power BI's capabilities to extract data from various sources, clean and transform it using Power Query Editor, and visualize insights through interactive dashboards.
+Exhaustive Analysis of Indian Agriculture using Power BI
 
-Key highlights of this project include:
+This repository presents an in-depth analysis of Indian agriculture, utilizing Power BI to explore key datasets and uncover actionable insights. It demonstrates the application of ET(Extract, Transform) processes and advanced data visualization techniques to address critical aspects of the agricultural sector.
 
-Extract: Pull data from multiple sources such as Excel, CSV, and databases.
+Key Highlights:
 
-Transform: Clean and process raw data, including removing duplicates, renaming columns, handling missing values, and applying calculated transformations.
+Extract: Data is sourced from government reports, CSV files, and publicly available datasets covering crop production, rainfall patterns, soil quality, and market trends.
 
-Load: Import the cleaned and transformed data into Power BI for further analysis.
+Transform: Using Power Query Editor, the data is cleaned, processed, and optimized by handling missing values, removing duplicates, and standardizing fields for consistency.
 
-Data Modeling: Create relationships between tables and define data hierarchies for detailed drill-down analysis.
+Load: Processed datasets are loaded into Power BI, ensuring a structured foundation for analysis.
 
-Visualizations: Build interactive dashboards using various visualization types, including bar charts, line graphs, pie charts, and slicers.
